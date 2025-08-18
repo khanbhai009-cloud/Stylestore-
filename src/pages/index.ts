@@ -1,0 +1,7 @@
+export { default as Dashboard } from './Dashboard'
+export { default as Tasks } from './Tasks'
+export { default as Profile } from './Profile'
+export { default as Withdraw } from './Withdraw'
+export { default as Leaderboard } from './Leaderboard'
+export { default as Admin } from './Admin'
+export { default as Referrals } from './Referrals'
